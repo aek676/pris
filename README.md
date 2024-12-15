@@ -22,11 +22,3 @@ Este proyecto es una aplicación web desarrollada con **Vite** y **React** que p
 
 4. **Abre la aplicación en tu navegador:**
    Vite lanzará un servidor de desarrollo accesible en `http://localhost:5173`.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-## Autor
-
-Desarrollado por **[Tu Nombre]** como una herramienta educativa para estudiantes de PRIS.
