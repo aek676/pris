@@ -1,6 +1,6 @@
 # Proyecto Vite - Tipo Test PRIS
 
-Este proyecto es una aplicación web desarrollada con **Vite** y **React** que permite a los usuarios practicar con un banco de preguntas tipo test basado en el temario de PRIS (Principios de Sistemas de Información). La aplicación está diseñada para estudiantes que desean reforzar su conocimiento y preparación para exámenes relacionados con el curso.
+Este proyecto es una aplicación web desarrollada con **Vite** y **React** que permite a los usuarios practicar con un banco de preguntas tipo test basado en el temario de PRIS. La aplicación está diseñada para estudiantes que desean reforzar su conocimiento y preparación para exámenes relacionados con el curso.
 
 ## Instalación y uso
 
