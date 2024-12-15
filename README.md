@@ -1,8 +1,32 @@
-# React + Vite
+# Proyecto Vite - Tipo Test PRIS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web desarrollada con **Vite** y **React** que permite a los usuarios practicar con un banco de preguntas tipo test basado en el temario de PRIS (Principios de Sistemas de Información). La aplicación está diseñada para estudiantes que desean reforzar su conocimiento y preparación para exámenes relacionados con el curso.
 
-Currently, two official plugins are available:
+## Instalación y uso
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clona el repositorio:**
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
+
+2. **Instala las dependencias:**
+   ```bash
+   cd <NOMBRE_DEL_PROYECTO>
+   npm install
+   ```
+
+3. **Ejecuta el proyecto en modo desarrollo:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Abre la aplicación en tu navegador:**
+   Vite lanzará un servidor de desarrollo accesible en `http://localhost:5173`.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Autor
+
+Desarrollado por **[Tu Nombre]** como una herramienta educativa para estudiantes de PRIS.
